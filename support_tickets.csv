@@ -1,0 +1,61 @@
+ticket_id,category,query,resolved
+TCK1000,Certificate Query,What should my GitHub repo include?,True
+TCK1001,Mentor Contact,How do I get my completion certificate?,True
+TCK1002,Technical Error,How do I contact my mentor?,True
+TCK1003,Mentor Contact,"I missed my task deadline, what should I do?",True
+TCK1004,Technical Error,Can I use any programming language for tasks?,True
+TCK1005,Certificate Query,How do I fix a PyTorch installation error?,True
+TCK1006,Certificate Query,How do I get my completion certificate?,True
+TCK1007,Deadline Extension,Can I use any programming language for tasks?,True
+TCK1008,Submission Issue,How do I submit my internship task?,True
+TCK1009,Deadline Extension,Do I need to post my work on LinkedIn?,False
+TCK1010,Tool Setup,How do I fix a PyTorch installation error?,True
+TCK1011,Technical Error,Do I need to post my work on LinkedIn?,True
+TCK1012,Submission Issue,What is the deadline for this task?,False
+TCK1013,Mentor Contact,Is this internship paid?,True
+TCK1014,Certificate Query,Is this internship paid?,False
+TCK1015,Deadline Extension,How many tasks are there in total?,True
+TCK1016,Mentor Contact,Where can I find the task guidelines?,True
+TCK1017,Certificate Query,How do I contact my mentor?,True
+TCK1018,Technical Error,How do I fix a PyTorch installation error?,True
+TCK1019,Deadline Extension,What tools do I need for this internship?,True
+TCK1020,Tool Setup,Can I use any programming language for tasks?,True
+TCK1021,Certificate Query,Can I use any programming language for tasks?,True
+TCK1022,Deadline Extension,How many tasks are there in total?,True
+TCK1023,Deadline Extension,How do I fix a PyTorch installation error?,False
+TCK1024,Tool Setup,How do I contact my mentor?,True
+TCK1025,Tool Setup,What tools do I need for this internship?,True
+TCK1026,Mentor Contact,Where can I find the task guidelines?,True
+TCK1027,Deadline Extension,Is this internship paid?,True
+TCK1028,Certificate Query,What should my GitHub repo include?,True
+TCK1029,Mentor Contact,How do I submit my internship task?,True
+TCK1030,Submission Issue,What tools do I need for this internship?,True
+TCK1031,Technical Error,What is the deadline for this task?,True
+TCK1032,Technical Error,What is the deadline for this task?,True
+TCK1033,Mentor Contact,How many tasks are there in total?,True
+TCK1034,Submission Issue,Do I need to post my work on LinkedIn?,False
+TCK1035,Certificate Query,Where can I find the task guidelines?,True
+TCK1036,Tool Setup,What tools do I need for this internship?,True
+TCK1037,Certificate Query,What tools do I need for this internship?,True
+TCK1038,Technical Error,How do I submit my internship task?,True
+TCK1039,Tool Setup,What is the deadline for this task?,True
+TCK1040,Deadline Extension,How do I contact my mentor?,True
+TCK1041,Technical Error,Is this internship paid?,True
+TCK1042,Deadline Extension,How many tasks are there in total?,True
+TCK1043,Technical Error,Who do I contact for technical issues?,False
+TCK1044,Submission Issue,"I missed my task deadline, what should I do?",True
+TCK1045,Certificate Query,How do I fix a PyTorch installation error?,True
+TCK1046,Mentor Contact,Who do I contact for technical issues?,True
+TCK1047,Certificate Query,What should my GitHub repo include?,True
+TCK1048,Technical Error,What is the deadline for this task?,True
+TCK1049,Deadline Extension,How many tasks are there in total?,True
+TCK1050,Submission Issue,How do I get my completion certificate?,False
+TCK1051,Certificate Query,Do I need to post my work on LinkedIn?,True
+TCK1052,Tool Setup,How do I fix a PyTorch installation error?,True
+TCK1053,Deadline Extension,How do I contact my mentor?,False
+TCK1054,Tool Setup,How do I submit my internship task?,True
+TCK1055,Technical Error,How do I fix a PyTorch installation error?,True
+TCK1056,Mentor Contact,Is this internship paid?,True
+TCK1057,Tool Setup,What tools do I need for this internship?,True
+TCK1058,Tool Setup,How do I get my completion certificate?,True
+TCK1059,Deadline Extension,Do I need to post my work on LinkedIn?,True

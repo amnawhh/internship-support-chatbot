@@ -1,0 +1,16 @@
+question,answer,clean_question
+How do I submit my internship task?,"Go to the Guidelines tab, click 'Submit Work', and upload your GitHub repo link along with a short description.",how do i submit my internship task
+Where can I find the task guidelines?,Click the 'Guidelines' button on your task card to view the full task instructions.,where can i find the task guidelines
+What is the deadline for this task?,Each task typically has a 5-7 day deadline from the date it was assigned. Check your dashboard for the exact date.,what is the deadline for this task
+"I missed my task deadline, what should I do?",Contact your program coordinator immediately through the support portal to request an extension.,i missed my task deadline what should i do
+How do I get my completion certificate?,Certificates are issued automatically after all tasks are marked complete and reviewed by the mentor team.,how do i get my completion certificate
+Can I use any programming language for tasks?,"Most tasks are Python-based since this is a Machine Learning internship, but check individual task guidelines for specifics.",can i use any programming language for tasks
+How do I contact my mentor?,You can reach your mentor through the internal messaging system or the support email listed in your onboarding document.,how do i contact my mentor
+What tools do I need for this internship?,"You'll need Python, Jupyter Notebook, Git/GitHub, and Streamlit installed. A LinkedIn profile is also recommended for sharing progress.",what tools do i need for this internship
+Is this internship paid?,"Please refer to your official offer letter or contact HR for compensation-related questions, as this varies by program track.",is this internship paid
+How many tasks are there in total?,The internship typically consists of multiple sequential tasks; check your dashboard for the full task list and progress tracker.,how many tasks are there in total
+Can I redo a task after submission?,Resubmissions are usually allowed before the review deadline. Check with your mentor if the review has already started.,can i redo a task after submission
+Do I need to post my work on LinkedIn?,"Yes, sharing your project on LinkedIn is encouraged as part of building your professional portfolio, though requirements vary by task.",do i need to post my work on linkedin
+What should my GitHub repo include?,"Include your notebook, dashboard code, dataset, a README.md explaining your approach, and any output visualizations.",what should my github repo include
+How do I fix a PyTorch installation error?,"If you're on Python 3.13, PyTorch may not have compatible wheels yet. Try a rule-based or scikit-learn alternative, or downgrade to Python 3.11.",how do i fix a pytorch installation error
+Who do I contact for technical issues?,Reach out to the technical support team through the support ticket system with a clear description and screenshot of the error.,who do i contact for technical issues
