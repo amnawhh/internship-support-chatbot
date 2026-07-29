@@ -59,5 +59,5 @@ if user_input:
     st.session_state.messages.append({"role": "assistant", "content": answer})
 
 st.markdown("---")
-with st.expander("📋 View all FAQ topics I can help with"):
+with st.expander(" View all FAQ topics I can help with"):
     st.dataframe(faq_df[["question"]])
